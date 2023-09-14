@@ -1,8 +1,8 @@
 {
-  "SendMessage": "66",
+  "SendMessage": "67",
   "MyMessage": "Latest Application Version: v1.3.5 (Build 35)\n\n
 NOTE: If you're still using an older version of our app, please consider updating your app now. [Optional]\n\n
 What's New in v1.3.5?\n
 • [Resolved] UDP Protocol compatibility issues on Android 9 devices have been fixed.\n
-• [Enhancement] As always, we've included improvements to performance for a better app experience and stability. Get the latest update to try it now."
+• [Enhancement] As always, we've included improvements to performance for a better app experience and stability. Get the latest update to try it now.""
 }
